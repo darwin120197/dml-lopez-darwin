@@ -86,10 +86,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
   aboutBtn.addEventListener("click", () => {
     showMore.classList.add("show-message");
+    aboutBtn.classList.add("display-none");
   });
 
   seeLessBtn.addEventListener("click", () => {
     showMore.classList.remove("show-message");
+    aboutBtn.classList.remove("display-none");
   });
 });
 
