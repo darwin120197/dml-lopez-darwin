@@ -262,6 +262,10 @@ section {
   transition: 0.5s ease-in-out;
 }
 
+.display-none {
+  display: none;
+}
+
 .about__content #about-btn:hover {
   transform: translateX(0);
   color: var(--bg-color);
