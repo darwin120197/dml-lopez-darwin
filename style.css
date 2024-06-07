@@ -650,14 +650,10 @@ h2 span {
   }
 
   #wrapper3 .services__box.second {
-    padding: 0 7rem;
+    padding: 0 10rem;
   }
 
-  #wrapper3 .services__box.second p,
-  #wrapper3 .services__box.first p {
-    font-size: 1.8rem;
-  }
-
+ 
   .portfolio {
     padding-bottom: 7rem;
   }
